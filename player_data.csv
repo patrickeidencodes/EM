@@ -1,0 +1,265 @@
+Index,Name,Liga,Marktwert,Land,Position,TimeL,TimeI,TimeSum,xGoalL,xGoalI,xGoalSum,Save%,Goals,Assists,Age,GCA,Team,Gelb,Rot,GoalValue
+0,Etrit Berisha,Serie A,500.000,Albanien,Torwart,1260,0,1260,0,0,0,"68,9",0,0,35,0,Empoli,0,0,0
+1,Berat Djimsiti,Serie A,10.000.000,Albanien,Verteidiger,2832,1043,3875,"0,8","0,4","1,2",0,1,1,31,1,Atalanta,5,0,"-0,2"
+2,Ardian Ismajli,Serie A,3.000.000,Albanien,Verteidiger,2045,0,2045,"0,3",0,"0,3",0,0,0,27,1,Empoli,2,0,"-0,3"
+3,Mario Mitaj,Premier Liga (R),2.000.000,Albanien,Verteidiger,1073,0,1073,0,0,0,0,0,0,20,0,Lokomotiv Moscow,4,0,0
+4,Elseid Hysaj,Serie A,2.500.000,Albanien,Verteidiger,1199,340,1539,"0,2",0,"0,2",0,0,0,30,1,Lazio,2,0,"-0,2"
+5,Kristjan Asllani,Serie A,18.000.000,Albanien,Mittelfeld,787,205,992,"0,6","0,1","0,7",0,1,2,22,5,Inter Mailand,1,0,"0,3"
+6,Ylber Ramadani,Serie A,4.000.000,Albanien,Mittelfeld,2970,0,2970,1,0,1,0,1,0,28,0,Lecce,13,0,0
+7,Nedim Bajrami,Serie A,4.500.000,Albanien,Mittelfeld,1310,0,1310,"2,5",0,"2,5",0,2,2,25,6,US Sassuolo,0,0,"-0,5"
+8,Rey Manaj,Süper Lig,5.000.000,Albanien,Sturm,2503,0,2503,0,18,18,0,18,3,27,0,Sivasspor,11,0,0
+9,Armando Broja,Premiere League ,22.000.000,Albanien,Sturm,542,0,542,"2,4",0,"2,4",0,1,1,22,1,Fulham,0,0,"-1,4"
+10,Arber Hoxha,HNL,1.800.000,Albanien,Sturm,2376,271,2647,"0,4",1,"1,4",0,7,2,25,2,Dinamo Zagreb,4,0,"5,6"
+11,Kasper Schmeichel,Jupiler Pro League,1000000,Dänemark,Torwart,2070,0,2070,0,0,0,80,0,0,37,0,RSC Anderlecht,1,0,0
+12,Andreas Christensen,La Liga,40000000,Dänemark,Verteidiger,1979,439,2418,1,"0,7","1,7",0,3,2,28,3,FC Barcelona,4,0,"1,3"
+13,Joachim Andersen,Premiere League ,35000000,Dänemark,Verteidiger,3415,0,3415,"1,7",0,"1,7",0,2,3,28,5,Crystal Palace,7,0,"0,3"
+14,Victor Kirstiansen,Serie A,15000000,Dänemark,Verteidiger,2307,0,2307,"0,3",0,"0,3",0,0,3,21,7,FC Bologna,4,0,"-0,3"
+15,Joakim Maehle,Bundesliga,14000000,Dänemark,Verteidiger,2.452,0,2.452,"1,4",0,"1,4",0,2,3,27,10,Wolfsburg,5,0,"0,6"
+16,Christian Eriksen,Premiere League ,8000000,Dänemark,Mittelfeld,1141,203,1344,1,"0,4","1,4",0,1,3,32,4,Manchester United,1,0,"-0,4"
+17,Christian Norgaard,Premiere League ,18000000,Dänemark,Mittelfeld,2505,0,2505,"3,5",0,"3,5",0,2,1,30,3,FC Brentford,8,0,"-1,5"
+18,Pierre-Emile Hojbjerg,Premiere League ,18000000,Dänemark,Mittelfeld,1311,0,1311,"0,7",0,"0,7",0,0,0,28,2,Tottenham,4,0,"-0,7"
+19,Jonas Wind,Bundesliga,20000000,Dänemark,Sturm,2651,0,2651,"9,4",0,"9,4",0,11,7,25,14,Wolfsburg,3,0,"1,6"
+20,Andreas Skov Olsen,Jupiler Pro League,18000000,Dänemark,Sturm,2126,459,2585,"7,7","3,3",11,0,14,6,24,12,FC Brügge,3,0,3
+21,Mikkel Damsgaard,Premiere League ,10000000,Dänemark,Sturm,842,0,842,"0,9",0,"0,9",0,0,2,23,5,FC Brentford,2,0,"-0,9"
+22,Manuel Neuer,Bundesliga,4000000,Deutschland,Torwart,2.054,0,2.054,0,0,0,"70,04",0,0,38,0,Bayern Munich,1,0,0
+23,Antonio Rüdiger,La Liga,25000000,Deutschland,Verteidiger,2709,1040,3749,"1,5","0,7","2,2",0,1,2,31,7,Real Madrid,0,0,"-1,2"
+24,Jonathan Tah,Bundesliga,30000000,Deutschland,Verteidiger,2631,947,3578,"2,1","0,3","2,4",0,4,1,28,5,Bayer 04 Leverkusen,6,0,"1,6"
+25,Maximilian Mittelstädt,Bundesliga,17000000,Deutschland,Verteidiger,2103,0,2103,"0,9",0,"0,9",0,2,3,27,8,VfB Stuttgart,5,0,"1,1"
+26,Joshua Kimmich,Bundesliga,50000000,Deutschland,Verteidiger,2176,1080,3256,"1,1","0,7","1,8",0,2,8,29,15,Bayern Munich,1,1,"0,2"
+27,Ilkay Gündogan,La Liga,16000000,Deutschland,Mittelfeld,2994,836,3830,"7,3","0,9","8,2",0,5,13,33,20,FC Barcelona,5,0,"-3,2"
+28,Toni Kroos,La Liga,12000000,Deutschland,Mittelfeld,2124,858,2982,"1,6","0,3","1,9",0,1,10,34,16,Real Madrid,2,0,"-0,9"
+29,Florian Wirtz,Bundesliga,130000000,Deutschland,Mittelfeld,2372,702,3074,"8,9","2,6","11,5",0,15,15,21,29,Bayer 04 Leverkusen,3,0,"3,5"
+30,Jamal Musiala,Bundesliga,120000000,Deutschland,Mittelfeld,1755,877,2632,"7,9","2,1",10,0,12,6,21,24,Bayern Munich,2,0,2
+31,Robert Andrich,Bundesliga,17000000,Deutschland,Mittelfeld,1690,760,2450,"1,7","0,4","2,1",0,5,3,29,9,Bayer 04 Leverkusen,4,0,"2,9"
+32,Niklas Füllkrug,Bundesliga,15000000,Deutschland,Sturm,2392,1036,3428,"12,9","5,4","18,3",0,15,10,31,19,Borussia Dortmund,0,0,"-3,3"
+33,Koen Casteels,Bundesliga,6000000,Belgien,Torwart,2250,0,2250,0,0,0,"67,8",0,0,31,0,Wolfsburg,2,0,0
+34,Timothy Castagne,Premiere League ,17000000,Belgien,Verteidiger,2634,0,2634,"1,6",0,"1,6",0,1,3,28,2,Fulham,3,0,"-0,6"
+35,Arthur Theate,Ligue 1,20000000,Belgien,Verteidiger,2296,641,2937,"1,9","0,3","2,2",0,2,0,24,4,Stade Rennes,4,0,"-0,2"
+36,Wout Faes,Premiere League ,20000000,Belgien,Verteidiger,3825,0,3825,2,0,2,0,2,0,26,4,Leicester City,5,0,0
+37,Jan Vertonghen,Jupiler Pro League,1500000,Belgien,Verteidiger,2425,0,2425,"1,2",0,"1,2",0,3,1,37,5,RSC Anderlecht,5,0,"1,8"
+38,Youri Tielemans,Premiere League ,25000000,Belgien,Mittelfeld,1622,749,2371,"1,4","0,7","2,1",0,3,7,27,17,Aston Villa,3,0,"0,9"
+39,Orel Mangala,Ligue 1,20000000,Belgien,Mittelfeld,398,1563,1961,1,"0,8","1,8",0,3,0,26,3,Lyon,0,0,"1,2"
+40,Kevin De Bruyne,Premiere League ,50000000,Belgien,Mittelfeld,1221,201,1422,"2,4","1,2","3,6",0,6,12,32,16,Manchester City,2,0,"2,4"
+41,Romelu Lukaku,Serie A,30000000,Belgien,Mittelfeld,2641,1076,3717,"9,8","4,8","14,6",0,20,4,31,13,AS Rom,5,1,"5,4"
+42,Johan Bakayoko,Eredivisie,45000000,Belgien,Sturm,2493,649,3142,"8,7","1,2","9,9",0,13,10,21,16,PSV Eindhoven,1,0,"3,1"
+43,Jeremy Doku,Premiere League ,65000000,Belgien,Sturm,1706,304,2010,"3,1","1,3","4,4",0,4,9,22,17,Manchester City,3,0,"-0,4"
+44,Jordan Pickford,Premiere League ,22000000,England,Torwart,3420,0,3420,0,0,0,"73,9",0,0,30,0,FC Everton,5,0,0
+45,Harry Maguire,Premiere League ,18000000,England,Verteidiger,1653,309,1962,2,"0,3","2,3",0,3,2,31,4,Manchester United,3,0,"0,7"
+46,John Stones,Premiere League ,38000000,England,Verteidiger,1064,341,1405,1,0,1,0,1,1,30,3,Manchester City,2,0,0
+47, Kyle Walker,Premiere League ,13000000,England,Verteidiger,2767,503,3270,"0,4","0,2","0,6",0,0,4,34,11,Manchester City,2,0,"-0,6"
+48,Luke Shaw,Premiere League ,32000000,England,Verteidiger,959,135,1094,0,"0,1","0,1",0,0,1,28,1,Manchester United,6,0,"-0,1"
+49,Jude Bellingham,La Liga,180000000,England,Mittelfeld,2315,989,3304,"11,1",3,"14,1",0,23,11,20,20,Real Madrid,2,0,"8,9"
+50,Declan Rice,Premiere League ,120000000,England,Mittelfeld,3225,838,4063,"3,3","0,2","3,5",0,7,0,25,13,FC Arsenal,5,0,"3,5"
+51,Cole Palmer,Premiere League ,80000000,England,Mittelfeld,2618,0,2618,"18,2",0,"18,2",0,22,11,22,26,FC Chelsea,7,0,"3,8"
+52,Bukayo Saka,Premiere League ,140000000,England,Mittelfeld,2919,720,3639,"15,5","1,6","17,1",0,20,13,22,27,FC Arsenal,4,0,"2,9"
+53,James Maddison,Premiere League ,70000000,England,Sturm,2135,0,2135,"6,4",0,"6,4",0,4,9,27,19,Tottenham,5,0,"-2,4"
+54,Harry Kane,Bundesliga,100000000,England,Sturm,2839,1062,3901,"30,6","6,7","37,3",0,44,12,30,18,Bayern Munich,2,0,"6,7"
+55,Mike Maignan,Serie A,38000000,Frankreich,Torwart,2610,0,2610,0,0,0,"74,2",0,0,28,0,AC Mailand,1,1,0
+56,Dayot Upamecano,Bundesliga,45000000,Frankreich,Verteidiger,1762,499,2261,"1,7","0,3",2,0,1,0,25,3,Bayern Munich,1,1,-1
+57,Ibrahima Konaté,Premiere League ,45000000,Frankreich,Verteidiger,1574,500,2074,"0,7",0,"0,7",0,0,0,25,1,FC Liverpool,3,1,"-0,7"
+58,Theo Hernandez,Serie A,60000000,Frankreich,Verteidiger,2791,1080,3871,"4,9",1,"5,9",0,5,8,26,19,AC Mailand,11,1,"-0,9"
+59,Benjamin Pavard,Serie A,50000000,Frankreich,Verteidiger,1672,480,2152,"0,7",0,"0,7",0,0,2,28,2,Inter Mailand,6,0,"-0,7"
+60,Aurelien Tchouameni,La Liga,90000000,Frankreich,Mittelfeld,1987,603,2590,"1,3","0,2","1,5",0,3,1,24,12,Real Madrid,3,0,"1,5"
+61,Adrien Rabiot,Serie A,35000000,Frankreich,Mittelfeld,2651,0,2651,"3,5",0,"3,5",0,5,3,29,5,Juventus Turin,8,0,"1,5"
+62,Antoine Griezmann,La Liga,25000000,Frankreich,Mittelfeld,2644,818,3462,"12,3","4,2","16,5",0,22,7,33,15,Atlético Madrid,5,0,"5,5"
+63,Kylian Mbappe,Ligue 1,180000000,Frankreich,Mittelfeld,2158,1080,3238,21,8,29,0,35,7,25,21,Paris SG,4,0,6
+64,Ousmane Dembele,Ligue 1,60000000,Frankreich,Mittelfeld,1506,951,2457,"4,4",3,"7,4",0,5,9,27,26,Paris SG,0,0,"-2,4"
+65,Olivier Giroud,Serie A,3000000,Frankreich,Sturm,2363,950,3313,"14,2","4,3","18,5",0,17,10,30,15,AC Mailand,1,1,"-1,5"
+66,Gianluigi Donnarumma,Ligue 1,40000000,Italien,Torwart,2170,0,2170,0,0,0,"80,18",0,0,25,0,Paris SG,3,1,0
+67,Alessandro Buongiorno,Serie A,35000000,Italien,Verteidiger,2527,0,2527,"1,6",0,"1,6",0,3,0,25,1,FC Turin,7,0,"1,4"
+68,Alessandro Bastoni,Serie A,70000000,Italien,Verteidiger,2268,500,2768,"1,2","0,3","1,5",0,1,3,25,8,Inter Mailand,5,0,"-0,5"
+69,Federico Dimarco,Serie A,50000000,Italien,Verteidiger,2077,364,2441,"2,9","0,5","3,4",0,6,6,26,14,Inter Mailand,0,0,"2,6"
+70,Giovanni Di Lorenzo,Serie A,15000000,Italien,Verteidiger,3234,720,3954,"3,1","0,4","3,5",0,2,7,30,12,SSC Neapel,6,0,"-1,5"
+71,Jorginho,Premiere League ,12000000,Italien,Mittelfeld,921,532,1453,"0,1","0,8","0,9",0,1,2,32,6,FC Arsenal,1,0,"0,1"
+72,Nicolo Barella,Serie A,80000000,Italien,Mittelfeld,2846,468,3314,"5,1","0,9",6,0,2,4,27,23,Inter Mailand,7,0,-4
+73,Davide Frattesi,Serie A,35000000,Italien,Mittelfeld,955,452,1407,"7,1","0,9",8,0,7,5,24,9,Inter Mailand,1,0,-1
+74,Mateo Retegui,Serie A,16000000,Italien,Sturm,2216,0,2216,"5,8",0,"5,8",0,7,2,25,4,Genua CFC,5,0,"1,2"
+75,Federico Chiesa,Serie A,35000000,Italien,Sturm,2197,0,2197,"6,4",0,"6,4",0,9,2,26,9,Juventus Turin,1,0,"2,6"
+76,Riccardo Orsolini,Serie A,16000000,Italien,Sturm,1792,0,1792,"7,4",0,"7,4",0,10,2,27,7,FC Bologna,2,0,"2,6"
+77,Dominik Livakovic,Süper Lig,11000000,Kroatien,Torwart,3059,0,3059,0,0,0,"72,07",0,0,29,0,Fenerbahce,1,0,0
+79,Josko Gvardiol,Premiere League ,75000000,Kroatien,Verteidiger,2328,569,2897,"3,1","0,1","3,2",0,5,2,22,10,Manchester City,3,0,"1,8"
+80,Josip Sutalo,Eredivisie,15000000,Kroatien,Verteidiger,1980,864,2844,"1,3",0,"1,3",0,1,0,24,2,Ajax Amsterdam,2,0,"-0,3"
+81,Josip Stanisic,Bundesliga,28000000,Kroatien,Verteidiger,1261,784,2045,"0,8","0,2",1,0,4,5,24,9,Bayer 04 Leverkusen,3,0,3
+82,Borna Sosa,Eredivisie,7500000,Kroatien,Verteidiger,894,725,1619,"0,1","0,1","0,2",0,0,5,26,6,Ajax Amsterdam,1,0,"-0,2"
+83,Luka Modric,La Liga,8000000,Kroatien,Mittelfeld,1688,420,2108,"1,3","1,1","2,4",0,2,6,38,15,Real Madrid,0,0,"-0,4"
+84,Mateo Kovacic,Premiere League ,30000000,Kroatien,Mittelfeld,1551,433,1984,"1,3","0,4","1,7",0,1,0,30,7,Manchester City,4,0,"-0,7"
+85,Marcelo Brozovic,Saudi Pro League,16000000,Kroatien,Mittelfeld,2497,0,2497,4,0,4,0,4,8,31,0,Al-Nassr,4,0,0
+86,Andrej Kramaric,Bundesliga,5000000,Kroatien,Sturm,2199,0,2199,"11,1",0,"11,1",0,15,6,32,16,TSG Hoffenheim,4,0,"3,9"
+87,Luka Ivanusec,Eredivisie,12000000,Kroatien,Sturm,1352,286,1638,"3,2","0,1","3,3",0,4,7,25,11,Feyenoord,0,0,"0,7"
+88,Bruno Petkovic,HNL,5000000,Kroatien,Sturm,2215,605,2820,6,7,13,0,18,5,29,3,Dinamo Zagreb,4,0,5
+89,Bart Verbruggen,Premiere League ,18000000,Niederlande,Torwart,1890,0,1890,0,0,0,"75,9375",0,0,21,0,Brighton,3,0,0
+90,Virgil van Dijk,Premiere League ,30000000,Niederlande,Verteidiger,3177,336,3513,"2,8","0,3","3,1",0,2,2,32,5,Liverpool,3,1,"-1,1"
+91,Nathan Aké,Premiere League ,40000000,Niederlande,Verteidiger,2042,384,2426,"2,5","0,9","3,4",0,2,2,29,7,Manchester City,0,0,"-1,4"
+92,Jeremie Frimpong,Bundesliga,50000000,Niederlande,Verteidiger,2251,640,2891,"8,2","3,7","11,9",0,12,7,23,11,Bayer 04 Leverkusen,6,0,"0,1"
+93,Denzel Dumfries,Serie A,24000000,Niederlande,Verteidiger,1639,320,1959,"2,3","0,9","3,2",0,4,5,28,9,Inter Mailand,2,1,"0,8"
+94,Frenkie de Jong,La Liga,70000000,Niederlande,Mittelfeld,1634,393,2027,"0,7",0,"0,7",0,2,0,27,10,FC Barcelona,7,0,"1,3"
+95,Ryan Gravenberch,Premiere League ,35000000,Niederlande,Mittelfeld,1121,346,1467,2,"1,7","3,7",0,3,1,22,1,Liverpool,0,0,"-0,7"
+96,Tijjani Reijnders,Serie A,30000000,Niederlande,Mittelfeld,2820,890,3710,"3,2","0,6","3,8",0,4,3,25,21,AC Mailand,8,0,"0,2"
+97,Xavi Simons,Bundesliga,80000000,Niederlande,Sturm,2653,596,3249,"8,3","1,3","9,6",0,10,13,21,24,RB Leipzig,9,1,"0,4"
+98,Cody Gakpo,Premiere League ,50000000,Niederlande,Sturm,1649,637,2286,9,"3,4","12,4",0,12,6,25,13,Liverpool,1,0,"-0,4"
+99,Memphis Depay,La Liga,12000000,Niederlande,Sturm,893,104,997,"5,8",1,"6,8",0,5,1,30,3,Atlético Madrid,2,0,"-1,8"
+100,Alexander Schlager,ÖBundesliga,3000000,Österreich,Torwart,2520,0,2520,0,0,0,"74,22",0,0,28,0,RB Salzburg,4,0,0
+101,Philipp Lienhart,Bundesliga,15000000,Österreich,Verteidiger,1265,412,1677,"1,1","0,2","1,3",0,1,1,27,1,SC Freiburg,3,0,"-0,3"
+102,Maximilian Wöber,Bundesliga,10000000,Österreich,Verteidiger,2066,0,2066,"1,3",0,"1,3",0,2,3,26,7,Gladbach,2,1,"0,7"
+103,Kevin Danso,Ligue 1,25000000,Österreich,Verteidiger,2655,630,3285,"1,8","0,7","2,5",0,1,0,25,4,RC Lens,6,0,"-1,5"
+104,Stefan Posch,Serie A,14000000,Österreich,Verteidiger,2409,0,2409,"1,2",0,"1,2",0,1,2,27,4,FC Bologna,7,0,"-0,2"
+105,Konrad Laimer,Bundesliga,30000000,Österreich,Mittelfeld,1772,772,2544,1,"0,1","1,1",0,0,4,27,10,Bayern Munich,3,0,"-1,1"
+106,Nicolas Seiwald,Bundesliga,16000000,Österreich,Mittelfeld,718,272,990,0,0,0,0,0,2,23,3,RB Leipzig,1,0,0
+107,Christoph Baumgartner,Bundesliga,18000000,Österreich,Mittelfeld,1158,118,1276,"3,7","0,8","4,5",0,5,1,24,6,RB Leipzig,3,0,"0,5"
+108,Marcel Sabitzer,Bundesliga,20000000,Österreich,Sturm,1961,928,2889,"3,6","1,2","4,8",0,5,8,30,16,Borussia Dortmund,2,0,"0,2"
+109,Romano Schmid,Bundesliga,10000000,Österreich,Sturm,2601,0,2601,"5,2",0,"5,2",0,4,6,24,16,Bremen,5,0,"-1,2"
+110,Marko Arnautovic,Serie A,4000000,Österreich,Sturm,801,192,993,5,"2,9","7,9",0,7,3,35,3,Inter Mailand,0,0,"-0,9"
+111,Diogo Costa,Liga Portugal,45000000,Portugal,Torwart,2945,0,2945,0,0,0,"70,05",0,0,24,0,FC Porto,0,1,0
+112,Ruben Dias,Premiere League ,80000000,Portugal,Verteidiger,2559,765,3324,"1,4","0,7","2,1",0,0,0,27,6,Manchester City,0,0,"-2,1"
+113,Goncalo Inacio,Liga Portugal,40000000,Portugal,Verteidiger,2482,685,3167,"1,1","1,5","2,6",0,4,0,22,11,Sporting,6,1,"1,4"
+114,João Cancelo,La Liga,30000000,Portugal,Verteidiger,2503,808,3311,"1,6","0,6","2,2",0,4,5,30,11,FC Barcelona,7,0,"1,8"
+115,Diogo Dalot,Premiere League ,35000000,Portugal,Verteidiger,3174,463,3637,"1,7","0,1","1,8",0,2,3,25,8,Manchester United,4,1,"0,2"
+116,Danilo Pereira,Ligue 1,8000000,Portugal,Mittelfeld,1995,158,2153,"1,4",0,"1,4",0,0,0,32,2,Paris SG,2,0,"-1,4"
+117,Ruben Neves,Saudi Pro League,32000000,Portugal,Mittelfeld,2683,0,2683,3,0,3,0,3,11,27,3,Al-Hilal,8,0,0
+118,Bruno Fernandes,Premiere League ,70000000,Portugal,Mittelfeld,3118,540,3658,10,"1,6","11,6",0,12,10,29,22,Manchester United,9,0,"0,4"
+119,Rafael Leao,Serie A,70000000,Portugal,Mittelfeld,2512,909,3421,10,"3,9","13,9",0,13,13,24,33,AC Mailand,5,0,"-0,9"
+120,Cristiano Ronaldo,Saudi Pro League,15000000,Portugal,Sturm,2645,0,2645,35,0,35,0,35,11,39,10,Al-Nassr,5,1,0
+121,Joao Felix,La Liga,30000000,Portugal,Sturm,1540,369,1909,"8,7","1,6","10,3",0,10,4,24,11,FC Barcelona,5,0,"-0,3"
+122,Horaţiu Moldovan,La Liga,2500000,Rumänien,Torwart,2070,0,2070,0,0,0,"75,5",0,0,26,0,Atlético Madrid,0,0,0
+123,Radu Drăgușin,Premiere League ,25000000,Rumänien,Verteidiger,2139,0,2139,"1,1",0,"1,1",0,2,1,22,1,Tottenham,2,0,"0,9"
+124,Andrei Burcă,Saudi Pro League,3000000,Rumänien,Verteidiger,2379,0,2379,6,0,6,0,6,1,31,1,Al-Okhdood,3,1,0
+125,Andrei Rațiu,La Liga,1500000,Rumänien,Verteidiger,630,0,630,"0,3",0,"0,3",0,0,0,25,0,Rayo Vallecano,1,0,"-0,3"
+126,Nicuşor Bancu,SuperLiga,1500000,Rumänien,Verteidiger,3135,0,3135,2,0,2,0,2,9,31,1,CS U Craiova,12,0,0
+127,Răzvan Marin,Serie A,2700000,Rumänien,Mittelfeld,1818,0,1818,"1,1",0,"1,1",0,0,3,28,6,FC Empoli,3,0,"-1,1"
+128,Deian Sorescu,Süper Lig,1000000,Rumänien,Mittelfeld,1720,192,1912,"0,3",0,"0,3",0,5,3,26,0,Gaziantep FK,3,0,"4,7"
+129,Florinel Coman,SuperLiga,7000000,Rumänien,Mittelfeld,2575,0,2575,15,0,15,0,18,10,26,5,FCSB,8,2,3
+130,Ianis Hagi,La Liga,700000,Rumänien,Mittelfeld,804,0,804,"2,8",0,"2,8",0,0,2,25,1,Alavés,3,0,"-2,8"
+131,Denis Alibec,Stars League,700000,Rumänien,Mittelfeld,1786,0,1786,8,0,8,0,8,6,33,3,Muaither SC,6,0,0
+132,Daniel Birligea,SuperLiga,1600000,Rumänien,Sturm,2498,0,2498,14,0,14,0,14,6,24,1,CFR Cluj,6,0,0
+133,Angus Gunn,Championship,2500000,Schottland,Torwart,3541,0,3541,0,0,0,"71,1",0,0,28,0,Norwich City,1,0,0
+134,Andrew Robertson,Premiere League ,30000000,Schottland,Verteidiger,1693,303,1996,"1,9","0,4","2,3",0,3,2,30,7,Liverpool,2,0,"0,7"
+135,Grant Hanley,Championship,900000,Schottland,Verteidiger,550,0,550,"0,1",0,"0,1",0,0,0,32,1,Norwich City,2,0,"-0,1"
+136,Kieran Tierney,La Liga,12000000,Schottland,Verteidiger,1238,66,1304,"0,2","0,1","0,3",0,0,2,27,3,Real Sociedad,1,0,"-0,3"
+137,Anthony Ralston,Premiership,1800000,Schottland,Verteidiger,903,0,903,0,0,0,0,0,2,25,1,Celtic Glasgow,1,0,0
+138,John McGinn,Premiere League ,30000000,Schottland,Mittelfeld,2999,890,3889,5,"0,6","5,6",0,9,7,29,21,Aston Villa,11,1,"3,4"
+139,Scott McTominay,Premiere League ,32000000,Schottland,Mittelfeld,1901,382,2283,"5,7","1,4","7,1",0,8,2,27,3,Manchester United,4,0,"0,9"
+140,Callum McGregor,Premiership,8500000,Schottland,Mittelfeld,2871,520,3391,"0,2",0,"0,2",0,2,6,30,0,Celtic Glasgow,8,0,"1,8"
+141,Stuart Armstrong,Championship,2000000,Schottland,Mittelfeld,2829,0,2829,"6,5",0,"6,5",0,5,7,32,17,Southampton,6,0,"-1,5"
+142,Billy Gilmour,Premiere League ,18000000,Schottland,Mittelfeld,2120,595,2715,1,"0,2","1,2",0,0,1,22,8,Brighton,8,0,"-1,2"
+143,Ché Adams,Championship,15000000,Schottland,Sturm,2289,0,2289,"13,6",0,"13,6",0,16,4,27,11,Southampton,5,0,"2,4"
+144,Yann Sommer,Serie A,5000000,Schweiz,Torwart,3720,0,3720,0,0,0,"83,29",0,0,35,0,Inter Mailand,1,0,0
+145,Manuel Akanji,Premiere League ,45000000,Schweiz,Verteidiger,2511,665,3176,"1,9",1,"2,9",0,4,0,28,4,Manchester City,4,1,"1,1"
+146,Nico Elvedi,Bundesliga,10000000,Schweiz,Verteidiger,2482,0,2482,"1,6",0,"1,6",0,2,1,27,3,Gladbach,5,0,"0,4"
+147,Ricardo Rodriguez,Serie A,3500000,Schweiz,Verteidiger,2772,0,2772,"0,3",0,"0,3",0,1,2,31,3,FC Turin,4,0,"0,7"
+148,Leonidas Stergiou,Bundesliga,5000000,Schweiz,Verteidiger,594,0,594,"0,4",0,"0,4",0,1,0,22,1,VfB Stuttgart,0,0,"0,6"
+149,Granit Xhaka,Bundesliga,20000000,Schweiz,Mittelfeld,2821,891,3712,"1,8","0,5","2,3",0,3,2,31,18,Bayer 04 Leverkusen,7,0,"0,7"
+150,Denis Zakaria,Ligue 1,25000000,Schweiz,Mittelfeld,2137,0,2137,"1,4",0,"1,4",0,4,0,27,27,AS Monaco,9,2,"2,6"
+151,Remo Freuler,Serie A,6500000,Schweiz,Mittelfeld,2624,0,2624,"1,2",0,"1,2",0,1,1,32,5,FC Bologna,9,0,"-0,2"
+150,Noah Okafor,Serie A,20000000,Schweiz,Sturm,887,140,1027,"3,8","0,4","4,2",0,6,3,24,5,AC Mailand,1,0,"1,8"
+151,Xherdan Shaqiri,MLS,2500000,Schweiz,Sturm,741,0,741,"1,8",0,"1,8",0,2,1,32,5,Chicago,1,0,"0,2"
+152,Ruben Vargas,Bundesliga,7500000,Schweiz,Sturm,1962,0,1962,"3,9",0,"3,9",0,4,5,25,7,FC Augsburg,3,0,"0,1"
+153,Martin Dubravka,Premiere League ,1000000,Slowakei,Torwart,1984,0,1984,0,0,0,"70,8",0,0,35,0,Newcastle Utd.,1,0,0
+154,Milan Skriniar,Ligue 1,30000000,Slowakei,Verteidiger,1629,538,2167,"0,2","0,5","0,7",0,1,0,29,1,Paris SG,3,0,"0,3"
+155,Denis Vavro,Superliga,4000000,Slowakei,Verteidiger,2092,707,2799,"0,1","0,1","0,2",0,2,0,28,0,FC Kopenhagen,4,0,"1,8"
+156,David Hancko,Eredivisie,35000000,Slowakei,Verteidiger,3034,750,3784,"5,6","1,3","6,9",0,6,2,26,13,Feyenoord,3,0,"-0,9"
+157,Peter Pekarik,2.Bundesliga,300000,Slowakei,Verteidiger,125,0,125,"0,5",0,"0,5",0,0,0,37,0,Hertha BSC,0,0,"-0,5"
+158,Stanislav Lobotka,Serie A,28000000,Slowakei,Mittelfeld,3282,677,3959,"0,6","0,1","0,7",0,0,1,29,4,SSC Neapel,4,0,"-0,7"
+159,Ondrej Duda,Serie A,4000000,Slowakei,Mittelfeld,2456,0,2456,"2,2",0,"2,2",0,1,4,29,9,Hellas Verona,10,2,"-1,2"
+160,Juraj Kucka,Nike Liga,900000,Slowakei,Mittelfeld,640,0,640,"0,7",0,"0,7",0,2,0,37,1,Slo. Bratislava,3,0,"1,3"
+161,Róbert Bozeník,Liga Portugal,5000000,Slowakei,Sturm,2577,0,2577,13,0,13,0,9,2,24,5,Boavista Porto,4,0,-4
+162,Ivan Schranz,Fortuna Liga,2000000,Slowakei,Sturm,1107,258,1365,"1,2",0,"1,2",0,5,4,30,0,Slavia Prag,5,0,"3,8"
+163,Leo Sauer,Eredivisie,5000000,Slowakei,Sturm,287,15,302,"1,3",0,"1,3",0,2,3,16,6,Feyenoord,1,0,"0,7"
+164,Jan Oblak,La Liga,30000000,Slowenien,Torwart,3420,930,4350,0,0,0,"71,36",0,0,31,0,Atlético Madrid,0,0,0
+165,Miha Blazic,Ekstraklasa,1200000,Slowenien,Verteidiger,1953,0,1953,1,0,1,0,1,0,31,0,Lech Posen,2,0,0
+166,Jaka Bijol,Serie A,10000000,Slowenien,Verteidiger,2084,0,2084,"1,9",0,"1,9",0,0,0,25,1,Udinese Calcio,4,0,"-1,9"
+167,Zan Karnicnik,Prva Liga,1000000,Slowenien,Verteidiger,2872,0,2872,4,0,4,0,4,12,29,2,NK Celje,8,0,0
+168,Erik Janza,Ekstraklasa,600000,Slowenien,Verteidiger,1722,0,1722,0,0,0,0,0,4,30,0,Górnik Zabrze,7,1,0
+169,Timi Max Elsnik,Prva Liga,1500000,Slowenien,Mittelfeld,431,0,431,"0,1",0,"0,1",0,0,0,26,26,NK Olimpija,5,0,"-0,1"
+170,Adam Gnezda Cerin,Stoiximan Super League,3500000,Slowenien,Mittelfeld,2053,358,2411,"0,4",0,"0,4",0,3,3,24,1,Panathinaikos,0,0,"2,6"
+171,Petar Stojanovic,Serie B,1300000,Slowenien,Mittelfeld,1834,0,1834,"1,1",0,"1,1",0,1,4,28,6,Sampdoria,7,0,"-0,1"
+172,Jan Mlakar,Serie B,2500000,Slowenien,Mittelfeld,1444,0,1444,"1,7",0,"1,7",0,3,2,25,3,Pisa,1,0,"1,3"
+173,Benjamin Sesko,Bundesliga,50000000,Slowenien,Sturm,1526,404,1930,"7,7","2,8","10,5",0,16,2,21,9,RB Leipzig,1,0,"5,5"
+174,Andraz Sporar,Stoiximan Super League,4000000,Slowenien,Sturm,1138,137,1275,7,0,7,0,9,1,30,0,Panathinaikos,2,0,2
+175,Predrag Rajkovic,LaLiga,10000000,Serbien,Torwart,3240,0,3240,0,0,0,"71,7",0,0,28,0,RCD Mallorca,2,0,0
+176,Milos Veljkovic,Bundesliga,4500000,Serbien,Verteidiger,1920,0,1920,"1,7",0,"1,7",0,2,1,28,3,Bremen,2,0,"0,3"
+177,Nikola Milenkovic,Serie A,15000000,Serbien,Verteidiger,2510,825,3335,"0,4","0,7","1,1",0,0,1,26,3,AC Florenz,8,0,"-1,1"
+178,Strahinja Pavlovic,ÖBundesliga,25000000,Serbien,Verteidiger,2287,493,2780,0,0,0,0,3,3,23,0,RB Salzburg,12,1,3
+179,Sergej Milinkovic Savic,Saudi Pro League,30000000,Serbien,Mittelfeld,2442,0,2442,11,0,11,0,11,11,29,3,Al-Hilal,5,1,0
+180,Nemanja Maksimovic,LaLiga,6000000,Serbien,Mittelfeld,3265,0,3265,"5,5",0,"5,5",0,4,0,29,5,FC Getafe,4,0,"-1,5"
+181,Nemanja Gudelj,LaLiga,4000000,Serbien,Mittelfeld,1742,540,2282,"0,8","0,4","1,2",0,3,1,32,3,FC Sevilla,8,0,"1,8"
+182,Filip Kostic,Serie A,6500000,Serbien,Mittelfeld,1815,0,1815,"0,7",0,"0,7",0,0,4,31,5,Juventus Turin,2,0,"-0,7"
+183,Andrija Zivkovic,Stoiximan Super League,8000000,Serbien,Mittelfeld,1809,652,2461,10,0,10,0,13,8,27,3,PAOK Saloniki,4,0,3
+184,Sasa Lukic,Premier League,10000000,Serbien,Mittelfeld,1122,0,1122,"1,6",0,"1,6",0,1,0,27,0,FC Fulham,3,0,"-0,6"
+185,Dusan Vlahovic,Serie A,65000000,Serbien,Sturm,2307,0,2307,"16,6",0,"16,6",0,16,4,24,9,Juventus Turin,6,1,"-0,6"
+186,Unai Simon,LaLiga,25000000,Spanien,Torwart,3184,0,3184,0,0,0,"73,8",0,0,26,0,Athletic Bilbao,0,0,0
+187,Aymeric Laporte,Saudi Pro League,20000000,Spanien,Verteidiger,2392,0,2392,0,0,0,0,4,1,30,0,Al-Nassr,5,1,4
+188,Robin Le Normand,LaLiga,40000000,Spanien,Verteidiger,2469,572,3041,1,"0,7","1,7",0,2,0,27,1,Real Sociedad,15,0,"0,3"
+189,Daniel Carvajal,LaLiga,12000000,Spanien,Verteidiger,2171,846,3017,"1,7","0,6","2,3",0,5,4,32,8,Real Madrid,6,1,"2,7"
+190,Marc Cucurella,Premier League,25000000,Spanien,Verteidiger,1782,0,1782,"1,1",0,"1,1",0,0,2,25,3,FC Chelsea,10,0,"-1,1"
+191,Rodri,Premier League,120000000,Spanien,Mittelfeld,2931,696,3627,"4,1","0,8","4,9",0,9,11,27,29,Manchester City,10,1,"4,1"
+192,Mikel Merino,LaLiga,50000000,Spanien,Mittelfeld,2482,630,3112,"3,3","2,1","5,4",0,7,4,27,9,Real Sociedad,12,0,"1,6"
+193,Fabian Ruiz,Ligue 1,30000000,Spanien,Mittelfeld,1197,619,1816,2,"1,4","3,4",0,1,5,28,10,Paris SG,5,0,"-2,4"
+194,Dani Olmo,Bundesliga,50000000,Spanien,Sturm,1449,181,1630,"3,3","0,9","4,2",0,5,5,26,9,RB Leipzig,0,0,"0,8"
+195,Ferran Torres,LaLiga,35000000,Spanien,Sturm,1211,378,1589,"5,5","1,6","7,1",0,10,3,24,12,FC Barcelona,4,0,"2,9"
+196,Alvaro Morata,LaLiga,20000000,Spanien,Sturm,1904,665,2569,"13,8","4,6","18,4",0,20,4,31,11,Atlético Madrid,4,1,"1,6"
+197,Ugurcan Çakir,Süper Lig,8000000,Türkei,Torwart,3150,0,3150,0,0,0,"69,9",0,0,28,0,Trabzonspor,4,0,0
+198,Abdülkerim Bardakci,Süper Lig,9000000,Türkei,Verteidiger,2213,666,2879,2,"0,3","2,3",0,5,0,29,1,Galatasaray,5,0,"2,7"
+199,Merih Demiral,Saudi Pro League,16000000,Türkei,Verteidiger,1591,0,1591,1,0,1,0,1,1,26,0,Al-Ahli,4,1,0
+200,Ferdi Kadioglu,Süper Lig,21000000,Türkei,Verteidiger,3326,520,3846,"0,3",0,"0,3",0,1,4,24,1,Fenerbahce,3,0,"0,7"
+201,Zeki Celik,Serie A,6000000,Türkei,Verteidiger,671,814,1485,"0,2","0,2","0,4",0,0,2,27,2,AS Rom,2,1,"-0,4"
+202,Hakan Çalhanoglu,Serie A,45000000,Türkei,Mittelfeld,2556,509,3065,"10,1","1,1","11,2",0,14,3,30,10,Inter Mailand,7,0,"2,8"
+203,Salih Özcan,Bundesliga,10000000,Türkei,Mittelfeld,1184,443,1627,"0,2","0,1","0,3",0,0,0,26,4,Borussia Dortmund,3,0,"-0,3"
+204,Arda Güler,La Liga,15000000,Türkei,Mittelfeld,377,0,377,"1,4",0,"1,4",0,6,0,19,2,Real Madrid,1,0,"4,6"
+205,Irfan Can Kahveci,Süper Lig,10000000,Türkei,Mittelfeld,2012,406,2418,12,"1,2","13,2",0,14,8,28,3,Fenerbahce,7,0,"0,8"
+206,Kerem Aktürkoglu,Süper Lig,15000000,Türkei,Mittelfeld,2468,584,3052,11,"0,4","11,4",0,14,6,25,0,Galatasaray,5,1,"2,6"
+207,Kenan Yildiz,Serie A,30000000,Türkei,Sturm,952,0,952,"1,6",0,"1,6",0,2,0,19,4,Juventus Turin,3,0,"0,4"
+208,Jindrich Stanek,Fortuna Liga,3500000,Tschechien,Torwart,2526,0,2526,0,0,0,"52,22",0,0,28,0,Slavia Prag,4,0,0
+209,Martin Vitik,Fortuna Liga,12000000,Tschechien,Verteidiger,2003,810,2813,3,0,3,0,5,0,21,1,Sparta Prag,3,1,2
+210,David Zima,Fortuna Liga,4000000,Tschechien,Verteidiger,1063,180,1243,0,0,0,0,0,0,23,0,Slavia Prag,1,0,0
+211,Tomas Holes,Fortuna Liga,2200000,Tschechien,Verteidiger,2193,559,2752,"0,2","0,2","0,4",0,3,2,31,1,Slavia Prag,3,1,"2,6"
+212,Vladimir Coufal,Premiere League ,8000000,Tschechien,Verteidiger,3132,620,3752,"0,3","0,2","0,5",0,0,7,31,15,West Ham Utd.,6,1,"-0,5"
+213,David Doudera,Fortuna Liga,3000000,Tschechien,Verteidiger,1698,654,2352,"2,1",2,"4,1",0,3,5,26,3,Slavia Prag,4,0,"-1,1"
+214,Tomas Soucek,Premiere League ,30000000,Tschechien,Mittelfeld,2870,676,3546,"6,7","1,1","7,8",0,9,3,29,7,West Ham Utd.,8,0,"1,2"
+215,Michal Sadilek,Eredivisie,8000000,Tschechien,Mittelfeld,2698,0,2698,"1,1",0,"1,1",0,1,3,25,5,Twente Enschede,5,1,"-0,1"
+216,Lukas Provod,Fortuna Liga,3000000,Tschechien,Mittelfeld,1826,413,2239,"0,2",0,"0,2",0,3,7,27,2,Slavia Prag,3,0,"2,8"
+217,Patrik Schick,Bundesliga,22000000,Tschechien,Sturm,1063,304,1367,6,"2,7","8,7",0,12,0,28,4,Bayer 04 Leverkusen,2,0,"3,3"
+218,Jan Kuchta,Fortuna Liga,5000000,Tschechien,Sturm,2259,760,3019,14,3,17,0,20,7,27,5,Sparta Prag,4,0,3
+219,Peter Gulacsi,Bundesliga,3000000,Ungarn,Torwart,1340,0,1340,0,0,0,"75,88",0,0,34,0,RB Leipzig,0,0,0
+220,Willi Orban,Bundesliga,10000000,Ungarn,Verteidiger,1582,180,1762,"0,4","0,2","0,6",0,1,0,31,4,RB Leipzig,3,0,"0,4"
+221,Attila Szalai,Bundesliga,4000000,Ungarn,Verteidiger,391,0,391,0,0,0,0,0,0,26,0,SC Freiburg,1,0,0
+222,Adam Lang,Protathlima Cyta,450000,Ungarn,Verteidiger,1593,0,1593,1,0,1,0,1,1,31,0,Omonia Nikosia,3,0,0
+223,Adam Nagy,Serie B,900000,Ungarn,Mittelfeld,1742,0,1742,"0,5",0,"0,5",0,0,0,28,0,Spezia Calci0,3,1,"-0,5"
+224,Callum Styles,League One,2500000,Ungarn,Mittelfeld,1415,0,1415,3,0,3,0,3,2,24,1,FC Barnsley,7,0,0
+225,Milos Kerkez,Premiere League ,20000000,Ungarn,Mittelfeld,1970,0,1970,"1,2",0,"1,2",0,0,1,20,4,Bournemouth,4,1,"-1,2"
+226,Loïc Nego,Ligue 1,900000,Ungarn,Mittelfeld,1561,0,1561,"1,3",0,"1,3",0,0,3,33,8,Le Havre AC,2,0,"-1,3"
+227,Dominik Szoboszlai,Premiere League ,75000000,Ungarn,Mittelfeld,2104,328,2432,"3,7","0,5","4,2",0,3,2,23,8,Liverpool,1,0,"-1,2"
+228,Daniel Gazdag,MLS,8000000,Ungarn,Sturm,1300,0,1300,"8,8",0,"8,8",0,10,0,28,2,Philadelphia,3,0,"1,2"
+229,Martin Adam,K League 1,1000000,Ungarn,Sturm,521,0,521,3,0,3,0,3,0,29,0,Ulsan HD,3,0,0
+230,Andriy Lunin,La Liga,16000000,Ukraine,Torwart,2640,0,2640,0,0,0,"76,66",0,0,25,0,Real Madrid,2,0,0
+231,Vitaliy Mykolenko,Premier League,28000000,Ukraine,Verteidiger,2469,0,2469,"1,5",0,"1,5",0,2,0,25,3,FC Everton,0,0,"0,5"
+232,Ilya Zabarnyi,Premier League,32000000,Ukraine,Verteidiger,3330,0,3330,"1,1",0,"1,1",0,1,0,21,1,Bournemouth,5,0,"-0,1"
+233,Mykola Matvienko,Premier Liga,18000000,Ukraine,Verteidiger,2070,630,2700,5,"0,1","5,1",0,5,0,28,1,Shakhtar D.,7,0,"-0,1"
+234,Yukhym Konoplya,Premier Liga,6000000,Ukraine,Verteidiger,1513,421,1934,"0,1","0,3","0,4",0,1,1,24,2,Shakhtar D.,8,0,"0,6"
+235,Oleksandr Zinchenko,Premier League,38000000,Ukraine,Verteidiger,1722,278,2000,"0,6","0,1","0,7",0,1,2,27,6,FC Arsenal,3,0,"0,3"
+236, Volodymyr Brazhko,Premier Liga,5000000,Ukraine,Mittelfeld,2028,0,2028,6,0,6,0,6,3,22,0,Dynamo Kyiv,4,0,0
+237,Georgiy Sudakov,Premier Liga,35000000,Ukraine,Mittelfeld,1772,720,2492,"4,1","0,9",5,0,8,2,21,3,Shakhtar D.,7,0,3
+238,Mykhaylo Mudryk,Premier League,35000000,Ukraine,Mittelfeld,1576,0,1576,"4,4",0,"4,4",0,5,2,23,9,FC Chelsea,5,0,"0,6"
+239,Viktor Tsygankov,LaLiga,28000000,Ukraine,Mittelfeld,2052,0,2052,"6,2",0,"6,2",0,8,7,26,13,FC Girona,0,0,"1,8"
+240,Artem Dovbyk,LaLiga,30000000,Ukraine,Sturm,2587,0,2587,"24,2",0,"24,2",0,24,8,26,13,FC Girona,2,0,"-0,2"
+241,Wojciech Szczesny,Serie A,6000000,Polen,Torwart,3150,0,3150,0,0,0,"74,1",0,0,34,0,Juventus Turin,1,0,0
+242,Jakub Kiwior,Premier League,30000000,Polen,Verteidiger,946,381,1327,"0,8","0,5","1,3",0,1,3,24,4,FC Arsenal,2,0,"-0,3"
+243,Jan Bednarek,Championship,11000000,Polen,Verteidiger,3548,0,3548,"2,2",0,"2,2",0,2,0,28,4,Southampton,11,0,"-0,2"
+244,Pawel Dawidowicz,Serie A,3000000,Polen,Verteidiger,2143,0,2143,"0,5",0,"0,5",0,0,0,29,1,Hellas Verona,5,0,"-0,5"
+245,Przemyslaw Frankowski,Ligue 1,9000000,Polen,Mittelfeld,2192,690,2882,"3,7",1,"4,7",0,4,4,29,6,RC Lens,5,0,"-0,7"
+246,Nicola Zalewski,Serie A,12000000,Polen,Mittelfeld,968,478,1446,"0,8","0,6","1,4",0,0,2,22,5,AS Rom,2,1,"-1,4"
+247,Piotr Zielinski,Serie A,22000000,Polen,Mittelfeld,1924,466,2390,"2,6",2,"4,6",0,4,2,30,9,SSC Neapel,2,0,"-0,6"
+248,Jakub Piotrowski,efbet Liga,5000000,Polen,Mittelfeld,2551,720,3271,12,1,13,0,15,1,26,3,Ludogorets,7,0,2
+249,Bartosz Slisz,MLS,5000000,Polen,Mittelfeld,1131,0,1131,"0,3",0,"0,3",0,1,0,25,1,Atlanta,7,0,"0,7"
+250,Robert Lewandowski,LaLiga,15000000,Polen,Sturm,2750,734,3484,"18,1",3,"21,1",0,22,9,35,15,FC Barcelona,6,0,"0,9"
+251,Karol Swiderski,Serie A,5000000,Polen,Sturm,504,0,504,"1,7",0,"1,7",0,2,0,27,1,Hellas Verona,0,0,"0,3"
+252,Giorgi Mamardashvili,LaLiga,35000000,Georgien,Torwart,3285,0,3285,0,0,0,"73,8",0,0,23,0,FC Valencia,3,1,0
+253,Guram Kashia,Nike Liga,250000,Georgien,Verteidiger,625,0,625,"0,5",0,"0,5",0,0,0,36,0,Slo. Bratislava,5,0,"-0,5"
+254,Solomon Kvirkvelia,Saudi Pro League,700000,Georgien,Verteidiger,2784,0,2784,1,0,1,0,1,1,32,0,Al-Okhdood,2,0,0
+255,Lasha Dvali ,Protathlima Cyta,900000,Georgien,Verteidiger,1493,0,1493,4,0,4,0,3,1,29,0,APOEL Nikosia,0,0,-1
+256,Otar Kakabadze,Ekstraklasa,500000,Georgien,Verteidiger,1588,0,1588,2,0,2,0,2,0,28,0,Cracovia,6,1,0
+257,Levan Shengelia,Stoiximan Super League,750000,Georgien,Verteidiger,1060,0,1060,2,0,2,0,2,1,28,0,Panetolikos,3,0,0
+258,Otar Kiteishvili,ÖBundesliga,5000000,Georgien,Mittelfeld,1927,551,2478,9,"1,1","10,1",0,10,7,28,4,Sturm Graz,10,0,"-0,1"
+259,Giorgi Chakvetadze,Championship,2500000,Georgien,Mittelfeld,1602,0,1602,"1,5",0,"1,5",0,1,4,24,5,FC Watford,7,0,"-0,5"
+260,Zuriko Davitashvili,Ligue 2,3000000,Georgien,Mittelfeld,2692,0,2692,8,0,8,0,8,8,23,12,G. Bordeaux,3,0,0
+261,Khvicha Kvaratskhelia,Serie A,80000000,Georgien,Sturm,2737,668,3405,"11,1","0,9",12,0,11,7,23,22,SSC Neapel,8,0,-1
+262,Georges Mikautadze,Ligue 1,15000000,Georgien,Sturm,1747,18,1765,"9,5",0,"9,5",0,13,4,23,8,FC Metz,1,0,"3,5"
